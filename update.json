@@ -1,6 +1,6 @@
 {
-    "version": "1.1",
-    "versionCode": 11,
-    "zipUrl": "https://github.com/powerAn2020/hosts-for-ksu/releases/download/1.1/hostsForKsu.zip",
-    "changelog": "https://raw.githubusercontent.com/powerAn2020/hosts-for-ksu/main/changelog.json"
+    "version": "1.2",
+    "versionCode": 12,
+    "zipUrl": "https://github.com/powerAn2020/hosts-for-ksu/releases/download/1.2/hostsForKsu.zip",
+    "changelog": "https://raw.githubusercontent.com/powerAn2020/hosts-for-ksu/main/changelog.md"
 }
